@@ -9,3 +9,5 @@ I want to add a plasma-material-interaction (PMI) module into Smilei for magneti
 
 ## What will be tried
 I will try to change the thermalize particle boundary condition into 'kind of' particle source to emit particle into simulation domain.
+
+But now[2020.10.12 22:53 UTC+8] the main branch is the same as the original Smilei.
