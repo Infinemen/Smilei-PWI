@@ -6,3 +6,6 @@ Details of [Smilei](http://www.maisondelasimulation.fr/smilei/index.html)
 **WARNING: This is a premature idea.**
 
 I want to add a plasma-material-interaction (PMI) module into Smilei for magnetic fusion study. Hope everyone interested in this help with me.
+
+## What will be tried
+I will try to change the thermalize particle boundary condition into 'kind of' particle source to emit particle into simulation domain.
